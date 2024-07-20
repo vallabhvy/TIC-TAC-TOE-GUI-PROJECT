@@ -1,0 +1,9 @@
+Tic Tac Toe Game
+Overview
+This is a simple implementation of the classic Tic Tac Toe game in Java using Swing for the graphical user interface. It allows players to play against each other or against the computer.
+
+Features
+Multiplayer Mode: Play against another player.
+Single Player Mode: Play against a basic AI.
+Reset Functionality: Reset the game after a win or draw.
+Graphical User Interface: A user-friendly interface with buttons for interaction
